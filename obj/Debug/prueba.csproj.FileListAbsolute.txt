@@ -7,3 +7,8 @@ C:\Users\Administrador\source\repos\prueba\prueba\obj\Debug\prueba.csproj.Genera
 C:\Users\Administrador\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\source\repos\prueba\prueba\obj\Debug\prueba.exe
 C:\Users\Administrador\source\repos\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\Administrador\source\repos\prueba\prueba\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\source\repos\prueba\prueba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\source\repos\prueba\prueba\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\source\repos\prueba\prueba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\source\repos\prueba\prueba\obj\Debug\prueba.csproj.CopyComplete
